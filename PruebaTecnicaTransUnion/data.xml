@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaSalarios>
+	<Anualidad Anio="2020" >
+
+		<Salario Mes="01">
+			<Valor>200</Valor>
+		</Salario>
+		<Salario Mes="02">
+			<Valor>100</Valor>
+		</Salario>
+		<Salario Mes="03">
+			<Valor>400</Valor>
+		</Salario>
+		<Salario Mes="04">
+			<Valor>220</Valor>
+		</Salario>
+		<Salario Mes="05">
+			<Valor>700</Valor>
+		</Salario>
+		<Salario Mes="06">
+			<Valor>610</Valor>
+		</Salario>
+		<Salario Mes="07">
+			<Valor>610</Valor>
+		</Salario>
+		<Salario Mes="08">
+			<Valor>610</Valor>
+		</Salario>
+		<Salario Mes="09">
+			<Valor>699</Valor>
+		</Salario>
+		<Salario Mes="10">
+			<Valor>620</Valor>
+		</Salario>
+		<Salario Mes="11">
+			<Valor>650</Valor>
+		</Salario>
+		<Salario Mes="12">
+			<Valor>130</Valor>
+		</Salario>
+
+	</Anualidad>
+</ListaSalarios>
+
+
+	
+	

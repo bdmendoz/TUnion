@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaSalarios>
+	<Salarios año="2020">
+		<salario mes="01">
+		</salario>
+		<salario mes="02">
+		</salario>
+		<salario mes="03">
+		</salario>
+		<salario mes="04">
+		</salario>
+		<salario mes="05">
+		</salario>
+		<salario mes="06">
+		</salario>
+		<salario mes="06">
+		</salario>
+		<salario mes="07">
+		</salario>
+		<salario mes="08">
+		</salario>
+		<salario mes="09">
+		</salario>
+		<salario mes="10">
+		</salario>
+		<salario mes="11">
+		</salario>
+		<salario mes="12">
+		</salario>
+	</Salarios>
+</ListaSalarios>	
+	
